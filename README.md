@@ -32,7 +32,7 @@ Phone : 010-7447-8469 <br>
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongKeunPark&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=JeongKeunPark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongKeun-Park&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=JeongKeun-Park&show_icons=true">
 </div>
 <br>
