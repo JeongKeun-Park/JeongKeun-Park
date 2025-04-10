@@ -2,7 +2,7 @@
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JeongKeun-Park"/>
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjk9425@gmail.com)](mailto:parkjk9425@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjk9425@gmail.com)](mailto:parkjk9425@gmail.com) <span><a href="https://www.notion.so/1d17e0d1dfd880b0885ec8aeb7f38d08"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
